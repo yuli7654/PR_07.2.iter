@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "PR_07.2.iter\\x64\\Debug\\Source.obj",
+            "outputs": [
+                "PR_07.2.iter\\x64\\Debug\\Source.cpp.obj.dt.module.json",
+                "PR_07.2.iter\\x64\\Debug\\Source.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
